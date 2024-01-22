@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amejiaalba
 - 👀 I’m interested in Cloud
-- 🌱 I’m currently learning Cloud migrations
-- 💞️ I’m looking to collaborate on sth
+- 🌱 I’m currently studying for AWS Certified DevOps Engineer - Professional
+- 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me @technologirl
 
 <!---
